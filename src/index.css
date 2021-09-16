@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App {
+    height: 100vh;
+}
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
